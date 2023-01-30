@@ -20,10 +20,20 @@ const quotes = [{
 
 const btn = document.querySelector('button');
 const quote = document.querySelector('span')
+var count = 0;
 
 btn.addEventListener('click', add);
 
 function add() {
-	let random = Math.floor(Math.random() * quotes.length);
-	quote.innerHTML = quotes[random].quote;
+	count++;
+	if (count > 2) {
+		alert('Limite excedido ! Volte amanhã ☺')
+		return
+	} else {
+		let random = Math.floor(Math.random() * quotes.length);
+		quote.innerHTML = quotes[random].quote;
+	}
+
 }
+
+
