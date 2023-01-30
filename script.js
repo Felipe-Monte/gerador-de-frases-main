@@ -1,20 +1,20 @@
 
 const quotes = [{
-	quote: `"Deus te ama"`
+	quote: `"Quem fica de joelhos diante de Deus, fica de pé diante de qualquer coisa."`
 }, {
-	quote: `"Faça uma oração hoje"`
+	quote: `"Não importa quantos obstáculos vou encontrar, pois Deus segue na minha frente abrindo caminho."`
 }, {
-	quote: `"Leia a biblia"`
+	quote: `"A melhor maneira que o homem dispõe para se aperfeiçoar, é aproximar-se de Deus."`
 }, {
-	quote: `"Seja bom"`
+	quote: `"Tem coisas que Deus dá para a gente aprender. E tem coisas que Deus só dá quando a gente aprende."`
 }, {
-	quote: `"Cante um hino"`
+	quote: `"Às vezes, Deus te leva pelo caminho mais longo, não para te punir, mas sim para te preparar."`
 }, {
-	quote: `"Poste uma msg biblica"`
+	quote: `"Quando a última coisa que você tiver for Deus, você vai descobrir que Ele era a única coisa que você precisava ter."`
 }, {
-	quote: `"Dê testemunhos"`
+	quote: `"Nas horas em que nos sentimos perdidos, é quando a confiança em Deus não pode falhar."`
 }, {
-	quote: `"Leve a palavra de deus as pessoas"`
+	quote: `"Deus nunca perturba a alegria dos seus filhos se não for para lhes preparar uma mais certa e maior."`
 },
 ]
 
